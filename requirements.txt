@@ -1,0 +1,7 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+copernicusmarine>=2.4
+numpy>=2.0
+pandas>=2.2
+xarray>=2025.1
+shapely>=2.0
